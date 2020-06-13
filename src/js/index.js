@@ -1,0 +1,14 @@
+import 'jquery';
+import 'popper.js';
+import 'bootstrap';
+import '../css/style.scss';
+import '../files/architect.jpg';
+import '../files/house2.jpg';
+import '../files/house3.jpg';
+import '../files/house4.jpg';
+import '../files/house5.jpg';
+import '../files/map.jpg';
+import '../files/team1.jpg';
+import '../files/team2.jpg';
+import '../files/team3.jpg';
+import '../files/team4.jpg';
